@@ -1,0 +1,51 @@
+* header {
+  color: #800000;
+padding:50px;
+margin:auto;
+background-color: cyan;
+ background-image: url("images/header11.jpg");
+nav: vertical;
+font-size: 60px;
+text-align: center;
+bottom margin: 20px;
+}
+nav ul{
+  margin: 0px;
+  padding: 5px 0px 5px 30px;
+  font-size: 20px
+}
+nav li {
+  display: inline-block;
+  margin-right: 40px;
+}
+div.w3-card {
+  display:inline-block;
+border-style: dotted;
+width: 65% ;
+height: 300px;
+margin-left: 190px;
+margin-bottom: 20px;
+
+}
+ div.books{
+  padding: left;
+  margin-left: 50px;
+  font-size: 30px;
+  align-items: left;
+  }
+div.figure {
+  margin-top:-200px;
+  margin-left: 500px;
+  margin-right: 0px;
+  padding: right;
+  height: 20px;
+  width: 20%
+
+}
+footer{
+text-align: right;
+/*padding: 150px 100px;*/
+color: red;
+font-size: 38px;
+background-color: cyan;
+}
